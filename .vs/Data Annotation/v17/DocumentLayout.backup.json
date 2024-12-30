@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3537F8-E05D-4449-B1F0-DA10A337A9A5}|Data Annotation\\Data Annotation.csproj|c:\\users\\vishal\\source\\repos\\data annotation\\data annotation\\basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3537F8-E05D-4449-B1F0-DA10A337A9A5}|Data Annotation\\Data Annotation.csproj|solutionrelative:data annotation\\basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3537F8-E05D-4449-B1F0-DA10A337A9A5}|Data Annotation\\Data Annotation.csproj|c:\\users\\vishal\\source\\repos\\data annotation\\data annotation\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3537F8-E05D-4449-B1F0-DA10A337A9A5}|Data Annotation\\Data Annotation.csproj|solutionrelative:data annotation\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3537F8-E05D-4449-B1F0-DA10A337A9A5}|Data Annotation\\Data Annotation.csproj|c:\\users\\vishal\\source\\repos\\data annotation\\data annotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3537F8-E05D-4449-B1F0-DA10A337A9A5}|Data Annotation\\Data Annotation.csproj|solutionrelative:data annotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\Data Annotation\\Users.cs",
+              "RelativeDocumentMoniker": "Data Annotation\\Users.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\Data Annotation\\Users.cs",
+              "RelativeToolTip": "Data Annotation\\Users.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:31:05.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basics.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\Data Annotation\\Basics.cs",
+              "RelativeDocumentMoniker": "Data Annotation\\Basics.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\Data Annotation\\Basics.cs",
+              "RelativeToolTip": "Data Annotation\\Basics.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:26:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\Data Annotation\\Program.cs",
+              "RelativeDocumentMoniker": "Data Annotation\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Data Annotation\\Data Annotation\\Program.cs",
+              "RelativeToolTip": "Data Annotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:26:10.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

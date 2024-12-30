@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\obj\Debug\Data Annotation.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\obj\Debug\Data Annotation.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\bin\Debug\Data Annotation.exe.config
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\bin\Debug\Data Annotation.exe
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\bin\Debug\Data Annotation.pdb
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\obj\Debug\Data Annotation.exe
+C:\Users\Vishal\source\repos\Data Annotation\Data Annotation\obj\Debug\Data Annotation.pdb
